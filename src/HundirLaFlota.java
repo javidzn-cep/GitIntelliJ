@@ -1,9 +1,4 @@
-/**
- * Clase del Juego Hundir La flota
- *
- * @version 1.0
- * @author Javier Díaz Neira
- */
+
 public class HundirLaFlota {
 
     static final String BACKGROUND = " · ", BARCO = "   ";
